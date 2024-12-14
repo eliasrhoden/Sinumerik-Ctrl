@@ -51,3 +51,9 @@ def bodemag(G,omega=None,**kwargs):
     omega = resp.omega
 
     plt.semilogx(omega, 20*np.log10(mag),**kwargs)
+
+
+def save_fig(name):
+    folder = 'figures/'
+    plt.savefig(folder+name+'.svg')
+    plt.savefig(folder+name+'.png')
