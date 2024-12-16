@@ -1,6 +1,6 @@
 # Analysis of the Sinumerik AST function
 
-This repo contains the code used for the blogpost:
+This repo contains the code used for the blogpost: [https://eliasrhoden.github.io/sinumerik,/control/theory/2024/12/15/SinumerikAST.html](https://eliasrhoden.github.io/sinumerik,/control/theory/2024/12/15/SinumerikAST.html)
 
 
 Intended order of execution of notebooks:
